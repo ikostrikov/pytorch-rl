@@ -1,6 +1,6 @@
 # pytorch-rl
 
-A list of referenced to my reimplementations of RL algorithms:
+A list of references to my reimplementations of RL algorithms:
 
 * Asynchronous Methods for Deep Reinforcement Learning (A3C) ([arxiv](https://arxiv.org/abs/1602.01783), [my code](https://github.com/ikostrikov/pytorch-a3c))
 
