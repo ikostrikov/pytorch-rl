@@ -16,6 +16,4 @@ A list of references to my reimplementations of RL algorithms:
 
 # TODO (volunteers are welcome)
 
-* Implement DDPG (reproduce OpenAI results) and combine it with NAF into a single repo
-
 * Move TRPO to a2c-ppo-acktr code, implement it as a hessian free optimizer (as ACKTR is implemented as KFAC)
